@@ -1,0 +1,164 @@
+key,standard,generalREDza
+CSV_GAME_TYPE,Type: ,Type: 
+CSV_RED,RED,RED
+CSV_BLACK,BLACK,BLACK
+CSV_PLAYERS_CHOICE,Player's Choice,Player's Choice
+CSV_CARD,Card,Card
+CSV_RESULT,Result,Result
+CSV_GAMBLE,Gamble,Gamble
+CSV_GAMBLE_GAME,Gamble Game ,Gamble Game 
+CSV_WON,WON,WON
+CSV_LOST,LOST,LOST
+CSV_NO,No,No
+CSV_YES,Yes,Yes
+CSV_FREE_SPINS_WIN,- Free Spins Win,- Free Spins Win
+CSV_FREE_RESPIN,Free Respin ,Free Respin 
+CSV_CASCADE_SPIN,Cascade Spin ,Cascade Spin 
+CSV_FREE_SPIN,Free Spin ,Free Spin 
+CSV_FREE_SPINS,Free Spins,Free Spins
+CSV_RESPIN,Respin,Respin
+CSV_RESPIN_FEATURE_TRIGGERED,Respin Feature Triggered,Respin Feature Triggered
+CSV_OF, of , of 
+CSV_FREE_SPINS_EXPANDING_SYMBOL,Free Spins Expanding Symbol,Free Spins Expanding Symbol
+CSV_MULTIPLIER, Multiplier, Multiplier
+CSV_CURRENT,Current ,Current 
+CSV_WIN, Win, Win
+CSV_WIN_SECOND,- Win,- Win
+CSV_COINS_COLLECTED,Coins Collected ,Coins Collected 
+CSV_LINES_WIN,- Lines Win,- Lines Win
+CSV_RESPIN_LINES_WIN,- Respin Lines Win,- Respin Lines Win
+CSV_REEL_WAYS_PAY_WIN,- Reel Ways Pay Win,- Reel Ways Pay Win
+CSV_REEL_WAYS_PAY_YELLOW_SPACE,- Respin Ways Win,- Respin Ways Win
+CSV_CASCADE_LINES_WIN,- Cascading Lines Win,- Cascading Lines Win
+CSV_WILD_FEATURE,Wild Feature,Wild Feature
+CSV_WILD_FEATURE_WIN,- Wild Feature Win,- Wild Feature Win
+CSV_RESPIN_WILD_FEATURE_WIN,- Respin Wild Feature Win,- Respin Wild Feature Win
+CSV_CASCADING_SCATTER_WIN,- Cascading Scatter Win,- Cascading Scatter Win
+CSV_SCATTER_WIN,- Scatter Win,- Scatter Win
+CSV_RESPIN_SCATTER_WIN,- Respin Scatter Win,- Respin Scatter Win
+CSV_PLUS,Plus ,Plus 
+CSV_NEW, New , New 
+CSV_ADDED, Added, Added
+CSV_SCATTER,Scatter,Scatter
+CSV_FIGURES, figures, figures
+CSV_FIGURES_SECOND, figures , figures 
+CSV_REEL,Reel ,Reel 
+CSV_HIDDEN_SYMBOL_WIN,Hidden Symbol Win,Hidden Symbol Win
+CSV_LINE,Line ,Line 
+CSV_LEFT, Left, Left
+CSV_RIGHT, Right, Right
+CSV_COMBINATION,Combination,Combination
+CSV_HIDDEN_SYMBOL,Hidden Symbol,Hidden Symbol
+CSV_DATE,Date,Date
+CSV_WIN_CAPPING_REACHED,Win Capping Reached,Win Capping Reached
+CSV_GAME_START_CREDIT,Game Start Credit,Game Start Credit
+CSV_GAME_END_CREDIT,Game End Credit,Game End Credit
+CSV_LINES_PLAYED,Lines Played,Lines Played
+CSV_BET_PER_LINE,Bet per Line,Bet per Line
+CSV_BET_PER,Bet per ,Bet per 
+CSV_LINES, Lines, Lines
+CSV_BET_MULTIPLIER,Bet Multiplier,Bet Multiplier
+CSV_EXTRA_BET,Extra Bet,Extra Bet
+CSV_REEL_WAYS_PAY_BET,Reel Ways Pay Bet,Reel Ways Pay Bet
+CSV_BET_OPTION,Bet Option,Bet Option
+CSV_DENOMINATION,Denomination,Denomination
+CSV_TOTAL_BET,Total Bet,Total Bet
+CSV_TOTAL_WON,Total Won,Total Won
+CSV_TOTAL_WIN,Total Win,Total Win
+CSV_CASCADING_WIN,- Cascading Win,- Cascading Win
+CSV_CASCADING_COMBINATION_WIN,- Cascading Combination Win,- Cascading Combination Win
+CSV_CASCADING_JUMBOWAYS_WIN,- Cascading Jumboways Win,- Cascading Jumboways Win
+CSV_BONUS_PRIZE_WIN,- Bonus Prize Win,- Bonus Prize Win
+CSV_DRAW_ID,Draw Id,Draw Id
+CSV_DRAW,Draw,Draw
+CSV_SPOTS_PLAYED,Spots Played,Spots Played
+CSV_JP,JP,JP
+CSV_HIT, HIT, HIT
+CSV_HITS, HITS, HITS
+CSV_SESSION_ID,Session Id,Session Id
+CSV_SPOTS_PLAYED,Spots Played,Spots Played
+CSV_MEGA_SPIN,Mega Spin ,Mega Spin 
+CSV_FREE_SPIN_RESPIN,Free Spin Respin ,Free Spin Respin 
+CSV_MAIN_GAME_RESPIN,Main Game Respin ,Main Game Respin 
+CSV_CURRENT_FREE_SPIN_WIN,Current Free Spin Win ,Current Free Spin Win 
+CSV_CURRENT_FREE_RESPIN_WIN,Current Free Respin Win ,Current Free Respin Win 
+CSV_CURRENT_MEGA_SPIN_WIN,Current Mega Spin Win ,Current Mega Spin Win 
+CSV_CURRENT_CASCADE_SPIN_WIN,Current Cascade Spin Win,Current Cascade Spin Win
+CSV_FREE_RESPINS_WIN,- Free Respins Win,- Free Respins Win
+CSV_RESPIN_FEATURE_TRIGGERED_SECOND,- Respin Feature Triggered,- Respin Feature Triggered
+CSV_COINS_WON,Coins Won,Coins Won
+CSV_COINS_WON_SECOND,- Coins Won,- Coins Won
+CSV_CLOVERS_WON,Clovers Won,Clovers Won
+CSV_MEGA_SPIN_MULTIPLIER,Mega Spin Multiplier,Mega Spin Multiplier
+CSV_FEATURE_WIN,- Feature Win,- Feature Win
+CSV_COLLECT_FEATURE_WIN,- Collect Feature Win,- Collect Feature Win
+CSV_BASE_BET,Base Bet,Base Bet
+CSV_JUMBOWAYS_BET,Jumboways Bet,Jumboways Bet
+CSV_BUY_FREE_SPINS_BET,Buy Free Spins Bet,Buy Free Spins Bet
+CSV_COMBINATION_WIN,- Combination Win,- Combination Win
+CSV_JUMBOWAYS_WIN,- Jumboways Win,- Jumboways Win
+CSV_MAXIMUM_AWARD_REACHED,Maximum Award reached,Maximum Award reached
+CSV_MAXIMUM_AWARD_REACHED_SECOND,Maximum Award Reached,Maximum Award Reached
+CSV_BONUS_PRIZE_SPIN,Bonus Prize Spin,Bonus Prize Spin
+CSV_FREE_SPIN_MULTIPLIER,Free Spin Multiplier,Free Spin Multiplier
+CSV_FREE_RESPIN_MULTIPLIER,Free Respin Multiplier,Free Respin Multiplier
+CSV_CURRENT_CASCADE_SPIN_MULTIPLIER,Current Cascade Spin Multiplier,Current Cascade Spin Multiplier
+CSV_BUY_FREE_SPINS_TRIGGERED,Buy Free Spins Triggered,Buy Free Spins Triggered
+CSV_BONUS_PRIZE_FEATURE,Bonus Prize Feature,Bonus Prize Feature
+CSV_BONUS_PRIZE_FEATURE_TRIGGERED,Bonus Prize Feature Triggered,Bonus Prize Feature Triggered
+CSV_MINI_PRIZE_WON,- Mini Prize Won,- Mini Prize Won
+CSV_MINOR_PRIZE_WON,- Minor Prize Won,- Minor Prize Won
+CSV_MAJOR_PRIZE_WON,- Major Prize Won,- Major Prize Won
+CSV_GRAND_PRIZE_WON,- Grand Prize Won,- Grand Prize Won
+CSV_MAIN_GRAND_PRIZE_WON_EC,-  Grand Prize Won,-  Grand Prize Won
+CSV_TOTAL_BONUS_PRIZE_WON,Total Bonus Prize Won,Total Bonus Prize Won
+CSV_MINOR_PRIZE_WON_SECOND,Minor Prize Won,Minor Prize Won
+CSV_MAJOR_PRIZE_WON_SECOND,Major Prize Won,Major Prize Won
+CSV_GRAND_PRIZE_WON_SECOND,Grand Prize Won,Grand Prize Won
+CSV_RESPIN_RESET,Respin Reset,Respin Reset
+CSV_AFTER_TRANSFORMATION,After Transformation,After Transformation
+CSV_NUMBER_OF_COLLECTED_CLOVERS,Number Of Collected Clovers,Number Of Collected Clovers
+CSV_FREE_SPINS_FEATURE,Free Spins Feature:,Free Spins Feature:
+CSV_CHOSEN,Chosen:,Chosen:
+CSV_FREE_SPINS_WITH, Free Spins with , Free Spins with 
+CSV_AS_EXTRA_SYMBOL, as Extra Symbol, as Extra Symbol
+CSV_FREE_GAMES_FEATURE,Free Games Feature,Free Games Feature
+CSV_COLLECTED_COINS_FROM_LAST_15_SPINS,Collected Coins From Last 15 Spins: ,Collected Coins From Last 15 Spins: 
+CSV_TOTAL_COINS_COLLECTED,Total Coins Collected: ,Total Coins Collected: 
+CSV_3_X_TOTAL_BET, (3 x Total Bet), (3 x Total Bet)
+CSV_8_X_TOTAL_BET, (800 x Total Bet), (800 x Total Bet)
+CSV_WIN_FROM_COINS_COLLECTED,Win from Coins Collected: ,Win from Coins Collected: 
+CSV_FEATURE_RETRIGGERED,Feature Retriggered: ,Feature Retriggered: 
+CSV_FREE_SPINS_AWARDED, Free Spins Awarded, Free Spins Awarded
+CSV_MAXIMUM_AWARD_X_5000_REACHED,Maximum Award x5000 Reached,Maximum Award x5000 Reached
+CSV_MAXIMUM_AWARD_X_10000_REACHED,Maximum Award x10000 Reached,Maximum Award x10000 Reached
+CSV_NEW_RESPIN_ADDED, New Respin Added, New Respin Added
+CSV_NEW_RESPINS_ADDED, New Respin Added, New Respin Added
+CSV_PLUS_1_RE_SPIN_ADDED,Plus 1 New Respin Added,Plus 1 New Respin Added
+CSV_PLUS_1_FREE_SPIN_ADDED,Plus 1 New Free Spin Added,Plus 1 New Free Spin Added
+CSV_PLUS_2_FREE_SPINS_ADDED,Plus 2 New Free Spins Added,Plus 2 New Free Spins Added
+CSV_PLUS_3_FREE_SPINS_ADDED,Plus 3 New Free Spins Added,Plus 3 New Free Spins Added
+CSV_PLUS_5_FREE_SPINS_ADDED,Plus 5 New Free Spins Added,Plus 5 New Free Spins Added
+CSV_PLUS_6_FREE_SPINS_ADDED,Plus 6 New Free Spins Added,Plus 6 New Free Spins Added
+CSV_PLUS_8_FREE_SPINS_ADDED,Plus 8 New Free Spins Added,Plus 8 New Free Spins Added
+CSV_PLUS_10_FREE_SPINS_ADDED,Plus 10 New Free Spins Added,Plus 10 New Free Spins Added
+CSV_PLUS_15_FREE_SPINS_ADDED,Plus 15 New Free Spins Added,Plus 15 New Free Spins Added
+CSV_PLUS_20_FREE_SPINS_ADDED,Plus 20 New Free Spins Added,Plus 20 New Free Spins Added
+CSV_PLUS_25_FREE_SPINS_ADDED,Plus 25 New Free Spins Added,Plus 25 New Free Spins Added
+CSV_PLUS_50_FREE_SPINS_ADDED,Plus 50 New Free Spins Added,Plus 50 New Free Spins Added
+CSV_FREE_SPIN_ADDED, New Free Spin Added, New Free Spin Added
+CSV_FREE_SPINS_ADDED, New Free Spins Added, New Free Spins Added
+CSV_RESET_SPINS_TO_4,Reset Respins To 4,Reset Respins To 4
+CSV_CLOVER_WON,Clover Won ,Clover Won 
+CSV_JACKPOT_FEATURE,Jackpot Feature ,Jackpot Feature 
+CSV_MINOR_PRIZE_WON_THIRD,Minor Prize Won - ,Minor Prize Won - 
+CSV_MAJOR_PRIZE_WON_THIRD,Major Prize Won - ,Major Prize Won - 
+CSV_GRAND_PRIZE_WON_THIRD,Grand Prize Won - ,Grand Prize Won - 
+CSV_SCATTER_FEATURE,Scatter Feature:,Scatter Feature:
+CSV_FREE_SPINS_UPPERCASE, FREE SPINS, FREE SPINS
+CSV_MINI,Mini,Mini
+CSV_MINOR,Minor,Minor
+CSV_MAJOR,Major,Major
+CSV_GRAND,Grand,Grand
+CSV_DIAMOND,Diamond,Diamond
+CSV_AXE,Axe,Axe
